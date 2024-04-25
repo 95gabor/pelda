@@ -2,5 +2,5 @@
 
 ## Követelmények
 
-- [git](https://git-scm.com/)
+- [GIT](https://git-scm.com/)
 - [vscode](https://code.visualstudio.com/)
